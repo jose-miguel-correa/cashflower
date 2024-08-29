@@ -9,3 +9,4 @@ ruff==0.0.291
 setuptools==73.0.1
 Sphinx==7.2.6
 wheel==0.44.0
+cashflower==0.7.2
